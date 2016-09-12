@@ -1,3 +1,5 @@
+# This tells if codon is a stop codon
+
 codon = 'UGG'
 
 codon_list = ['UAA', 'UAG', 'UGA']
